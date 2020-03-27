@@ -15,6 +15,7 @@ namespace EjemploAves01
 
         public void Fotocopiar()
         {
+
             throw new NotImplementedException();
         }
 
